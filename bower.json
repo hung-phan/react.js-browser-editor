@@ -1,0 +1,15 @@
+{
+  "name": "react",
+  "version": "0.0.1",
+  "dependencies": {
+    "sass-bootstrap": "*",
+    "font-awesome": "*",
+    "underscore": "*",
+    "modernizr": "*",
+    "jquery": "*",
+    "react": "~0.9.0",
+    "almond": "*",
+    "modernizr": "*"
+  }
+}
+
