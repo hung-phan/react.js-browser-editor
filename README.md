@@ -1,10 +1,11 @@
 ## Getting Started
 
-To run this open dist/index.html with your browser
+To start developing react.js component, open dist/index.html with your browser.
 
-To build the project, first make sure your have install all the dependecies for the app
+## Contribute
 
-Dependencies:
+To build and contribute to the project, first make sure your have install all the dependecies for the app
+
 1. [Bower] (http://bower.io/)
 
 2. [Grunt] (http://gruntjs.com/)
