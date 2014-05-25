@@ -10,7 +10,9 @@ To build and contribute to the project, first make sure you have installed all t
 
 2. [Grunt] (http://gruntjs.com/)
 
-3. Compass (gem install compass)
+3. SASS (gem install sass)
+
+4. Compass (gem install compass)
 
 ```
 $ npm install
